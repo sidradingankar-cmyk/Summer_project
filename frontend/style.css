@@ -1,0 +1,22 @@
+body{
+    font-family: Arial;
+    margin:40px;
+}
+
+h1{
+    color:blue;
+}
+
+select{
+    padding:10px;
+}
+
+button{
+    padding:10px;
+    margin-left:10px;
+}
+
+#result{
+    margin-top:20px;
+    font-size:18px;
+}
